@@ -10,7 +10,7 @@ Uma semana depois, em 7 de janeiro de 2020, as autoridades chinesas confirmaram 
 
 **Nesse notebook, iremos analisar os dados inseridos referente ao COVID-19, casos e mortes confirmadas pelo mundo, no Brasil, e da cidade de Curitibanos - SC**
 
-[Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_Airbnb/blob/main/Projeto%20-%20Analise%20de%20dados%20Airbnb_V2.ipynb)
+[Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_COVID-19/blob/main/Projeto_COVID-19.ipynb)
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
